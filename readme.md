@@ -1,3 +1,4 @@
+![ecommerce_user](https://user-images.githubusercontent.com/57656151/68655547-c8adf900-0562-11ea-9c5b-ab736d91e4c7.png)
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
